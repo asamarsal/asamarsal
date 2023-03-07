@@ -1,6 +1,9 @@
 # Hallo, I'm Asa Marsal
 ## [Portfolio](https:s.id/profilasamarsal)
 
+## Education:
+#### Universitas Amikom Yogyakarta | Informatics Engineering | Yogyakarta `2017-2023`
+   
 ---
 ### Connect with me:
 
