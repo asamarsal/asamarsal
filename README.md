@@ -1,9 +1,9 @@
 # Hallo, I'm Asa Marsal
-##[Portfolio] (https://s.id/profilasamarsal)
+## [Portfolio] (https://s.id/profilasamarsal)
 <br />
 
 ---
-###Connect with me:
+### Connect with me:
 
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UClqybM4UxI5B6KBkp7Xqu2g#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UClqybM4UxI5B6KBkp7Xqu2g#gh-dark-mode-only)
