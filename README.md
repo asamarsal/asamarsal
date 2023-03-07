@@ -1,5 +1,6 @@
 <h1 align="center">Hallo, My name is Asa Marsal</h1>
 
+#### My hobby is playing game. I learn how to personal branding/personal identity and make my portfolio from the scratch
 
 - You can check [My Portfolio](s.id/profilasamarsal)
 
