@@ -3,7 +3,7 @@
 #### My hobby is playing game. I learn how to personal branding/personal identity and make my portfolio from the scratch
 My interest in web developer, android developer, UI/UX, Cyber Security and Graphic Design. I live at Yogyakarta, Indonesia
 
-- You can check [My Portfolio](s.id/profilasamarsal)
+- You can check [My Portfolio](https://s.id/profilasamarsal)
 
 - Reach me **asamarsal@gmail.com**
 
