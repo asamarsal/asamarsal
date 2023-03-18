@@ -7,7 +7,7 @@ My interest in web developer, android developer, UI/UX, Cyber Security and Graph
 
 - Reach me **asamarsal@gmail.com**
 
-<img align='center' src='https://github.com/asamarsal/asamarsal/blob/main/img/github.png' width='900"'>
+<img align='center' src='https://github.com/asamarsal/asamarsal/blob/main/img/bargithub.png' width='900"'>
 
 #### <h3 align="left">Connect with me :</h3>
 <p align="left">
