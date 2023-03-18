@@ -7,6 +7,8 @@ My interest in web developer, android developer, UI/UX, Cyber Security and Graph
 
 - Reach me **asamarsal@gmail.com**
 
+<img align='center' src='https://github.com/asamarsal/asamarsal/blob/main/img/github.png' width='900"'>
+
 #### <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://twitter.com/asamarsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asamarsal" height="30" width="40" /></a>
