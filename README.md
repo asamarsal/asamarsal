@@ -11,6 +11,7 @@ My interest in web developer, android developer, UI/UX, Cyber Security and Graph
 
 #### <h3 align="left">Connect with me :</h3>
 <p align="left">
+<a href="https://linkedin.com/in/asamarsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="asamarsal" height="30" width="40" /></a>
 <a href="https://twitter.com/asamarsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asamarsal" height="30" width="40" /></a>
 <a href="https://instagram.com/asamarsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asamarsal" height="30" width="40" /></a>
 <a href="https://dribbble.com/asamarsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="asamarsal" height="30" width="40" /></a>
