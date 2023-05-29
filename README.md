@@ -25,5 +25,5 @@ My interest in web developer, android developer, UI/UX, Cyber Security and Graph
 <a href="https://dribbble.com/asamarsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="asamarsal" height="30" width="40" /></a>
 
 #### <h3 align="left">DAW :</h3>
-<a href="https://soundcloud.com/asamarsal" target="blank"><img align="center" src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-header-logo.png" alt="asamarsal" height="30" width="40" /></a>
-<a href="https://soundcloud.com/asamarsal" target="blank"><img align="center" src="https://www.audacityteam.org/wp-content/themes/wp_audacity/img/logo.png" alt="asamarsal" height="30" width="40" /></a>
+<a href="https://soundcloud.com/asamarsal" target="blank"><img align="center" src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-header-logo.png" alt="asamarsal" height="40" width="40" /></a>
+<a href="https://soundcloud.com/asamarsal" target="blank"><img align="center" src="https://www.audacityteam.org/wp-content/themes/wp_audacity/img/logo.png" alt="asamarsal" height="40" width="40" /></a>
