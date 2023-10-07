@@ -1,6 +1,6 @@
 <h1 align="center">Hallo, My name is Asa Marsal</h1>
 
-#### My hobby is some graphic design. I learn how to personal branding/personal identity and make my portfolio from the scratch
+#### My hobby is graphic design. I learn how to personal branding/personal identity and make my portfolio from the scratch
 My interest in Web Developer, Adroid Developer, Cyber Security and Graphic Design. I live at Yogyakarta, Indonesia
 
 - You can check [My Portfolio](https://s.id/profilasamarsal)
