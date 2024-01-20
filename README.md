@@ -20,12 +20,12 @@ My interest in Web Developer, Adroid Developer, Cyber Security and Graphic Desig
 
 #### <h3 align="left">Tools :</h3>
 <p align="left">
-<a href="https://www.photoshop.com/en" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="asamarsal" height="30" width="40" /></a>
+<a href="https://www.photoshop.com/en" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="asamarsal" height="30" width="30" /></a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="asamarsal" height="30" width="40" /></a>
 <a href="https://www.figma.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="asamarsal36" height="30" width="40" /></a>
-<a href="https://sparkar.facebook.com/ar-studio/" target="blank"><img align="center" src="https://github.com/asamarsal/asamarsal/blob/main/img/sparkar1.png" alt="asamarsal36" height="30" width="40" /></a>
+<a href="https://sparkar.facebook.com/ar-studio/" target="blank"><img align="center" src="https://github.com/asamarsal/asamarsal/blob/main/img/sparkar1.png" alt="asamarsal36" height="30" width="30" /></a>
 <a href="https://soundcloud.com/asamarsal" target="blank"><img align="center" src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-header-logo.png" alt="asamarsal36" height="30" width="40" /></a>
-<a href="https://soundcloud.com/asamarsal" target="blank"><img align="center" src="https://www.audacityteam.org/_astro/Audacity_Logo.63b57726.svg" alt="asamarsal36" height="30" width="40" /></a>
+<a href="https://soundcloud.com/asamarsal" target="blank"><img align="center" src="https://www.audacityteam.org/_astro/Audacity_Logo.63b57726.svg" alt="asamarsal36" height="30" width="30" /></a>
 </p>
 
 #### <h3 align="left">Design Portfolio :</h3>
