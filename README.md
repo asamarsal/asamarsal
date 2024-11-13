@@ -25,7 +25,7 @@ My interest in Web Developer, Adroid Developer, Cyber Security and Graphic Desig
 <a href="https://www.figma.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="asamarsal36" height="30" width="40" /></a>
 <a href="https://sparkar.facebook.com/ar-studio/" target="blank"><img align="center" src="https://github.com/asamarsal/asamarsal/blob/main/img/sparkar1.png" alt="asamarsal36" height="30" width="30" /></a>
 <a href="https://soundcloud.com/asamarsal" target="blank"><img align="center" src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-header-logo.png" alt="asamarsal36" height="30" width="40" /></a>
-<a href="https://soundcloud.com/asamarsal" target="blank"><img align="center" src="https://drive.google.com/file/d/1-R4yyNW_ZDzcfdvf6VLZ77nHMRfE38Fm/view?usp=sharing" alt="asamarsal36" height="30" width="30" /></a>
+<a href="https://soundcloud.com/asamarsal" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/danleech/simple/256/soundcloud-icon.png" alt="asamarsal36" height="30" width="30" /></a>
 </p>
 
 #### <h3 align="left">Design Portfolio :</h3>
