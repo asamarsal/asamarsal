@@ -32,6 +32,8 @@ My interest in Web Developer, Android Developer, Cyber Security and Graphic Desi
 <a href="https://www.behance.net/asamarsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="asamarsal" height="30" width="40" /></a>
 <a href="https://dribbble.com/asamarsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="asamarsal" height="30" width="40" /></a>
 
+#### <h3 align="left">Most Used Language :</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asamarsal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asamarsal" alt="asamarsal" /></a></p>
+#### <h3 align="left">🏆 GitHub Trophies</h3>
+![](https://github-profile-trophy.vercel.app/?username=asamarsal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
