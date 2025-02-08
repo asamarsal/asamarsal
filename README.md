@@ -1,4 +1,4 @@
-<h1 align="center">Hallo, My name is Asa Marsal</h1>
+<h1 align="center">Hallo, My name is Asa Marsal <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/664b912c007df30986846e67f4b42c9439fc8737/Assets/Firm%20Hand%20Waving.png" width="75px" height="75"> </h1>
 
 #### My hobby is graphic design. I learn how to personal branding/personal identity and make my portfolio from the scratch
 My interest in Web Developer, Android Developer, Cyber Security and Graphic Design. I live at Yogyakarta, Indonesia
@@ -11,6 +11,9 @@ My interest in Web Developer, Android Developer, Cyber Security and Graphic Desi
 <img align='center' src='https://github.com/asamarsal/asamarsal/blob/main/img/finalgitbarz.gif' width='900"'>
 
 #### <h3 align="left">Connect with me :</h3>
+
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/aa28326300247d989c9f7c2eeb177f59577d785b/Assets/RGB%20Line%20Medium.gif" width="100%"> 
+
 <p align="left">
 <a href="https://instagram.com/asamarsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asamarsal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/asamarsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asamarsal" height="30" width="40" /></a>
@@ -47,6 +50,9 @@ My interest in Web Developer, Android Developer, Cyber Security and Graphic Desi
 
 #### <h3 align="left">Most Used Language :</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asamarsal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
+
+#### <h3 align="left">Active Time :</h3>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asamarsal&theme=transparent"/>
 
 #### <h3 align="left">🏆 GitHub Trophies</h3>
 ![](https://github-profile-trophy.vercel.app/?username=asamarsal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
