@@ -10,7 +10,7 @@ My interest in Web Developer, Android Developer, Cyber Security and Graphic Desi
 
 <img align='center' src='https://github.com/asamarsal/asamarsal/blob/main/img/finalgitbarz.gif' width='900"'>
 
-<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/aa28326300247d989c9f7c2eeb177f59577d785b/Assets/RGB%20Line%20Medium.gif" width="100%"> 
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
 
 #### <h3 align="left">Connect with me :</h3>
 
