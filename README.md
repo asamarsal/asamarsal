@@ -1,4 +1,4 @@
-<h1 align="center">Hallo, My name is Asa Marsal <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/664b912c007df30986846e67f4b42c9439fc8737/Assets/Firm%20Hand%20Waving.png" width="75px" height="75"> </h1>
+<h1 align="center">Hallo, My name is Asa Marsal <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/664b912c007df30986846e67f4b42c9439fc8737/Assets/Firm%20Hand%20Waving.png" width="40px" height="40"> </h1>
 
 #### My hobby is graphic design. I learn how to personal branding/personal identity and make my portfolio from the scratch
 My interest in Web Developer, Android Developer, Cyber Security and Graphic Design. I live at Yogyakarta, Indonesia
