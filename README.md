@@ -56,3 +56,7 @@ My interest in Web Developer, Android Developer, Cyber Security and Graphic Desi
 
 #### <h3 align="left">🏆 GitHub Trophies</h3>
 ![](https://github-profile-trophy.vercel.app/?username=asamarsal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+#### <h3 align="center"> <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Man%20Technologist.png" width="30px" height="30"> Thanks for visited my profile <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/d9992ffc7f730e9a7f52f28e29cbc4262ba36345/Assets/Rocket.png" width="30px" height="30"> </h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
