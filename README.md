@@ -58,7 +58,7 @@ My interest in Web Developer, Android Developer, Cyber Security and Graphic Desi
 
 #### <h3 align="left">My git animals :</h3>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/asamarsal?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/asamarsal?pet-id=1" width="1000" height="160"/>
 </a>
 
 #### <h3 align="left">Active Time :</h3>
