@@ -56,6 +56,11 @@ My interest in Web Developer, Android Developer, Cyber Security and Graphic Desi
 #### <h3 align="left">Most Used Language :</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asamarsal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
 
+#### <h3 align="left">My git animals :</h3>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/asamarsal?pet-id=1" width="1000" height="120"/>
+</a>
+
 #### <h3 align="left">Active Time :</h3>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asamarsal&theme=transparent"/>
 
