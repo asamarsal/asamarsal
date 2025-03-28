@@ -56,7 +56,8 @@ My interest in Web Developer, Android Developer, Cyber Security and Graphic Desi
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### <h3 align="left">Most Used Language :</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=asamarsal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asamarsal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 #### <h3 align="left">My git animals :</h3>
 <a href="https://github.com/devxb/gitanimals">
