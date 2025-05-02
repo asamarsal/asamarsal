@@ -27,7 +27,6 @@ My interest in Web Developer, Android Developer, Cyber Security and Graphic Desi
 <a href="https://www.photoshop.com/en" target="blank"><img align="center" src="https://raw.githubusercontent.com/asamarsal/asamarsal/refs/heads/main/img/ps.png" alt="asamarsal" height="30" width="30" style="margin-right: 10;"/></a>&nbsp;&nbsp;
 <a href="https://www.adobe.com/in/products/illustrator.html" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="asamarsal" height="30" width="30" /></a>
 <a href="https://www.figma.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="asamarsal36" height="30" width="40" /></a>
-<a href="https://sparkar.facebook.com/ar-studio/" target="blank"><img align="center" src="https://github.com/asamarsal/asamarsal/blob/main/img/sparkar1.png" alt="asamarsal36" height="30" width="30" /></a>
 <a href="https://soundcloud.com/asamarsal" target="blank"><img align="center" src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-header-logo.png" alt="asamarsal36" height="30" width="40" /></a>
 <a href="https://soundcloud.com/asamarsal" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/danleech/simple/256/soundcloud-icon.png" alt="asamarsal36" height="30" width="30" /></a>
 </p>
