@@ -2,11 +2,12 @@
 
 #### I learn how to personal branding/personal identity and make my portfolio from the scratch
 My interest in Web Developer, Android Developer, Cyber Security and Graphic Design. I live at Yogyakarta, Indonesia
+For now, i learn to buidl web3 dapps and join my first web3 hackathon...
 
 - You can check [My Portfolio](https://s.id/profilasamarsal)
 - Feel free to look on my gitbook [Gitbook](https://asamarsal.gitbook.io) and my medium [Medium](https://medium.com/@asamarsal)
 
-- Reach me **asamarsal@gmail.com**
+- Reach me **asamarsal7@gmail.com**
 
 <img align='center' src='https://github.com/asamarsal/asamarsal/blob/main/img/finalgitbarz.gif' width='900"'>
 
